@@ -40,15 +40,6 @@ The project demonstrates clean design principles, color accuracy, and layout hie
 
 ---
 
-## 🖼 Preview
-
-(You can add a screenshot here once you upload one)  
-Example:
-
-![Snapchat Login Screen](screenshots/login_screen.png)
-
----
-
 ## 🚀 Getting Started
 
 1. Clone this repository
@@ -76,7 +67,7 @@ Include animations for smoother UI transitions
 
 Amina Idrees
 📍 University Project
-💬 LinkedIn | GitHub
+💬 LinkedIn https://www.linkedin.com/in/amina-mirza-97390a333 | GitHub
 
 
 ---
